@@ -70,7 +70,7 @@ function Customer() {
             {
                 breakpoint: 390,
                 settings: {
-                    slidesToShow: 1.2,
+                    slidesToShow: 1,
                     slidesToScroll: 1
                 }
             },
